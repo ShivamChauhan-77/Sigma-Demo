@@ -1,2 +1,2 @@
 # Sigma-Demo
-Demo for git
+Demo for git.
